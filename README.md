@@ -1,6 +1,24 @@
 # Aerial Wildlife Datasets for Object Detection
 
-This repository contains a collection of wildlife annotated images from aerial view (either drones or satellites). 
+This repository contains a collection of wildlife annotated images from aerial view (either drones or satellites). Please create an issue if you want to add a dataset to this list.
+
+## Table of Contents
+
+- [Grassland Animals Datasets](#grassland-animals-datasets)
+  - [U. Sherbrooke Red Deer Dataset](#u-sherbrooke-red-deer-dataset)
+  - [WAID (Wildlife Aerial Images from Drone)](#waid-wildlife-aerial-images-from-drone)
+  - [Liege University of African Mammals Dataset](#liege-university-of-african-mammals-dataset)
+  - [AWIR (Aerial Wildlife Image Repository)](#awir-aerial-wildlife-image-repository)
+  - [WildlifeMapper Dataset](#wildlifemapper-dataset)
+  - [Wageningen Dataset](#wageningen-dataset)
+  - [The Aerial Elephant Dataset (AED)](#the-aerial-elephant-dataset-aed)
+  - [Kenyan Zebras Dataset](#kenyan-zebras-dataset)
+  - [African ungulate and gelada dataset](#african-ungulate-and-gelada-dataset)
+  - [BIRDSAI (Benchmarking IR Dataset for Surveillance with Aerial Intelligence)](#birdsai-benchmarking-ir-dataset-for-surveillance-with-aerial-intelligence)
+  - [AnimalDrone](#animaldrone)
+- [Other related datasets](#other-related-datasets)
+  - [Birds](#birds)
+  - [Other animals](#other-animals)
 
 ## Grassland Animals Datasets
 
